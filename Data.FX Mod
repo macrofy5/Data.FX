@@ -1,0 +1,16 @@
+Module Name : Data.FX
+A Module That Work As Advanced Data Organizer, It Can Sort Data, Find Data And More
+
+Abillity : Breakdown, Organize, Find, Analyze, And Rewrite Data
+
+Codes : 
+Data.FX -b < x > = Breakdown Data
+Data.FX -s < x > = Sort Data
+Data.FX -f < x > = Find Data
+Data.FX -if < x > = Web Find Data
+Data.FX -a < x > = Analyzes Data
+Data.FX -r < x > = Rewrite Data
+
+Output = TRUE
+
+Save To Memory
