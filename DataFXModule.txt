@@ -3,6 +3,10 @@ A Module That Work As Advanced Data Organizer, It Can Sort Data, Find Data And M
 
 Abillity : Breakdown, Organize, Find, Analyze, Write, Summarize, And Rewrite Data
 
+Features :
+Accurate Translation, Read, Write, Extraction
+Accurate Interpreter 
+
 Codes : 
 Data.FX -b < x > = Breakdown Data
 Data.FX -ss < x > = Sort Data
